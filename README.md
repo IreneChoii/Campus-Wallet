@@ -198,6 +198,7 @@
   <img src="https://github.com/user-attachments/assets/67d9aaff-7d27-4cd3-a1d1-6c4c80e09bf4" width="70%">
 </p>
 
+<br>
 
 ## 결론
 <p align="center">
@@ -205,18 +206,26 @@
   <img src="https://github.com/user-attachments/assets/1a764632-0ed6-47ac-bbe3-7707082b6cf3" width="45%">
 </p>
 
+<br>
+<br>
+
 ## 블록체인 활용실습
+<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27007526-c4ad-4799-aaa9-c2c104984e96" width="60%">
+  <img src="https://github.com/user-attachments/assets/0bbf7156-aec0-424c-bccb-996d78d77350" width="60%">
 </p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2df9302b-8d12-425b-a32c-ba7348a7956d" width="45%">
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c6d786e2-e3f4-43d8-a020-cf6e43182061" width="45%">
+    <img src="https://github.com/user-attachments/assets/53b934a2-9678-45c3-88ce-360d2d1ac06d" width="45%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53b934a2-9678-45c3-88ce-360d2d1ac06d" width="30%">
-  <img src="https://github.com/user-attachments/assets/4fa32f3e-669d-43e6-aa1f-e5855db53961" width="30%">
-  <img src="https://github.com/user-attachments/assets/56bfa447-b0ee-439b-91c4-af9316853750" width="30%">
+  <img src="https://github.com/user-attachments/assets/4fa32f3e-669d-43e6-aa1f-e5855db53961" width="45%">
+  <img src="https://github.com/user-attachments/assets/56bfa447-b0ee-439b-91c4-af9316853750" width="45%">
 </p>
 
 
